@@ -22,6 +22,9 @@ public class GUI extends JFrame{
         button = new JButton("Pesquisar");
         add(button);
 
+
+
+
     }
 
 
